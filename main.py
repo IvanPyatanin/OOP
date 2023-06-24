@@ -109,3 +109,5 @@ some_lecturer.courses_attached += ['Python']
 some_lecturer.courses_attached += ['Git']
 
 some_reviewer = Reviewer('Some','Buddy')
+
+print(1)
